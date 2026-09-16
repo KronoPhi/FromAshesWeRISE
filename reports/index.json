@@ -1,30 +1,83 @@
-[
-  {
-    "id": "20260915-230808-mnpz",
-    "title": "Charrmander Phoenix",
-    "commanders": [
-      "Charrmander Phoenix"
-    ],
-    "guild": {
-      "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
-      "name": "From Ashes We",
-      "tag": "RISE"
-    },
-    "dateStart": "2026-09-15T13:38:08.000Z",
-    "dateEnd": "2026-09-15T14:19:03.266Z",
-    "dateLabel": "9/15/2026, 11:08:08 PM - 9/15/2026, 11:49:03 PM",
-    "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260915-230808-mnpz",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 57,
-          "color": "#ffffff"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20240311-001441-h5fe",
+      "title": "Charrmander Phoenix",
+      "commanders": [
+        "Charrmander Phoenix"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 21
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2024-03-10T13:44:41.000Z",
+      "dateEnd": "2024-03-29T16:23:49.387Z",
+      "dateLabel": "3/11/2024, 12:14:41 AM - 3/30/2024, 2:53:49 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20240311-001441-h5fe",
+      "summary": {
+        "borderlandsPct": 0.4518950437317784,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 183,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 68,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 61,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 26,
+            "color": "#ef4444"
+          },
+          {
+            "name": "World vs World",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 17
+      }
+    },
+    {
+      "id": "20260915-230808-mnpz",
+      "title": "Charrmander Phoenix",
+      "commanders": [
+        "Charrmander Phoenix"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-09-15T13:38:08.000Z",
+      "dateEnd": "2026-09-15T14:19:03.266Z",
+      "dateLabel": "9/15/2026, 11:08:08 PM - 9/15/2026, 11:49:03 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260915-230808-mnpz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 57,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 21
+      }
     }
-  }
-]
+  ]
+}
