@@ -4,6 +4,55 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20240430-235953-ix2x",
+      "title": "Charrmander Phoenix, Stabby O Stabface",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Stabby O Stabface"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2024-04-30T14:29:53.000Z",
+      "dateEnd": "2024-05-31T14:29:50.254Z",
+      "dateLabel": "4/30/2024, 11:59:53 PM - 5/31/2024, 11:59:50 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20240430-235953-ix2x",
+      "summary": {
+        "borderlandsPct": 0.24773022049286642,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 567,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 96,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 88,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20240401-231448-p90o",
       "title": "Charrmander Phoenix, Dodgy Damage",
       "commanders": [
