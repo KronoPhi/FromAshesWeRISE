@@ -4,6 +4,50 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20250303-015043-ssqp",
+      "title": "Leonvolcove, Morticia Requiem",
+      "commanders": [
+        "Leonvolcove",
+        "Morticia Requiem"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-03-02T15:20:43.000Z",
+      "dateEnd": "2025-03-14T14:19:09.655Z",
+      "dateLabel": "3/3/2025, 1:50:43 AM - 3/15/2025, 12:49:09 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250303-015043-ssqp",
+      "summary": {
+        "borderlandsPct": 0.10978520286396182,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 373,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 35,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20250303-015932-2mkf",
       "title": "Leonvolcove, Morticia Requiem",
       "commanders": [
