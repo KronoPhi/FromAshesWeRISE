@@ -4,6 +4,49 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20250401-000447-7bt5",
+      "title": "Charrmander Phoenix",
+      "commanders": [
+        "Charrmander Phoenix"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-03-31T13:34:47.000Z",
+      "dateEnd": "2025-04-15T14:25:19.189Z",
+      "dateLabel": "4/1/2025, 12:04:47 AM - 4/15/2025, 11:55:19 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250401-000447-7bt5",
+      "summary": {
+        "borderlandsPct": 0.08811475409836066,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 445,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20250316-225416-ocmn",
       "title": "Charrmander Phoenix, Geltii Extazis",
       "commanders": [
