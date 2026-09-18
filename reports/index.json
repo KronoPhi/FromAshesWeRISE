@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20250601-000009-2icm",
+      "title": "Morticia Requiem",
+      "commanders": [
+        "Morticia Requiem"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-05-31T14:30:09.000Z",
+      "dateEnd": "2025-05-31T15:09:40.252Z",
+      "dateLabel": "6/1/2025, 12:00:09 AM - 6/1/2025, 12:39:40 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250601-000009-2icm",
+      "summary": {
+        "borderlandsPct": 0.04990403071017274,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 495,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20250518-224924-1b9l",
       "title": "Charrmander Phoenix, Eurynome Hephaestus, Leona Volcove",
       "commanders": [
