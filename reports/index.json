@@ -4,6 +4,45 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20250615-010553-ezev",
+      "title": "Charrmander Phoenix, Sir Twitcherlot",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Sir Twitcherlot"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-06-14T15:35:53.000Z",
+      "dateEnd": "2025-06-30T14:28:12.527Z",
+      "dateLabel": "6/15/2025, 1:05:53 AM - 6/30/2025, 11:58:12 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250615-010553-ezev",
+      "summary": {
+        "borderlandsPct": 0.04918032786885246,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 232,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20250601-000009-2icm",
       "title": "Morticia Requiem",
       "commanders": [
