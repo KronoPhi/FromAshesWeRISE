@@ -4,6 +4,42 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20250415-235544-938j",
+      "title": "Charrmander Phoenix, Cheacha, Eurynome Hephaestus, Korpse Blood",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Cheacha",
+        "Eurynome Hephaestus",
+        "Korpse Blood"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-04-15T14:25:44.000Z",
+      "dateEnd": "2025-04-30T14:29:08.246Z",
+      "dateLabel": "4/15/2025, 11:55:44 PM - 4/30/2025, 11:59:08 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250415-235544-938j",
+      "summary": {
+        "borderlandsPct": 0.02926829268292683,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 398,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20250401-000447-7bt5",
       "title": "Charrmander Phoenix",
       "commanders": [
