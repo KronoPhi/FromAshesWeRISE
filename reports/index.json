@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20250701-000059-6ku1",
+      "title": "Charrmander Phoenix",
+      "commanders": [
+        "Charrmander Phoenix"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-06-30T14:30:59.000Z",
+      "dateEnd": "2025-07-09T16:07:21.207Z",
+      "dateLabel": "7/1/2025, 12:00:59 AM - 7/10/2025, 1:37:21 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250701-000059-6ku1",
+      "summary": {
+        "borderlandsPct": 0.020361990950226245,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 433,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20250615-010553-ezev",
       "title": "Charrmander Phoenix, Sir Twitcherlot",
       "commanders": [
