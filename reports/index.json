@@ -4,6 +4,40 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20250711-010608-lord",
+      "title": "Charrmander Phoenix, Leonvolcove",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Leonvolcove"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-07-10T15:36:08.000Z",
+      "dateEnd": "2025-07-15T16:02:47.683Z",
+      "dateLabel": "7/11/2025, 1:06:08 AM - 7/16/2025, 1:32:47 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250711-010608-lord",
+      "summary": {
+        "borderlandsPct": 0.009174311926605505,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 216,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20250701-000059-6ku1",
       "title": "Charrmander Phoenix",
       "commanders": [
