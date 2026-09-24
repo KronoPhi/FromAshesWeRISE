@@ -2,7 +2,46 @@
   "colorPalette": "electric-blue",
   "glassSurfaces": true,
   "glassmorphic": true,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20250805-005735-fcis",
+      "title": "Charrmander Phoenix",
+      "commanders": [
+        "Charrmander Phoenix"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-08-04T15:27:35.000Z",
+      "dateEnd": "2025-08-04T15:47:36.946Z",
+      "dateLabel": "8/5/2025, 12:57:35 AM - 8/5/2025, 1:17:36 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250805-005735-fcis",
+      "summary": {
+        "borderlandsPct": 0.06779661016949153,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 110,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 16
+      }
+    },
     {
       "id": "20250727-233344-eqdu",
       "title": "Charrmander Phoenix, Morticia Requiem",
