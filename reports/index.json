@@ -5,6 +5,35 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20250827-231819-nibu",
+      "title": "Charrmander Phoenix",
+      "commanders": [
+        "Charrmander Phoenix"
+      ],
+      "guild": null,
+      "dateStart": "2025-08-27T13:48:19.000Z",
+      "dateEnd": "2025-08-31T14:27:22.364Z",
+      "dateLabel": "8/27/2025, 11:18:19 PM - 8/31/2025, 11:57:22 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250827-231819-nibu",
+      "summary": {
+        "borderlandsPct": 0.03571428571428571,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 81,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20250815-232407-k5h5",
       "title": "Charrmander Phoenix, Lemmey Pie, Moo Lyne",
       "commanders": [
