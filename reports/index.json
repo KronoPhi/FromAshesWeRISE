@@ -5,6 +5,45 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20250731-235834-mkdn",
+      "title": "Charrmander Phoenix, Morticia Requiem",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Morticia Requiem"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-07-31T14:28:34.000Z",
+      "dateEnd": "2025-08-03T14:28:35.510Z",
+      "dateLabel": "7/31/2025, 11:58:34 PM - 8/3/2025, 11:58:35 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250731-235834-mkdn",
+      "summary": {
+        "borderlandsPct": 0.09803921568627451,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 128,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20250827-231819-nibu",
       "title": "Charrmander Phoenix",
       "commanders": [
