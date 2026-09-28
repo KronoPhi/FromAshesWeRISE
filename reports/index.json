@@ -5,6 +5,35 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20250831-235858-lq8m",
+      "title": "Charrmander Phoenix",
+      "commanders": [
+        "Charrmander Phoenix"
+      ],
+      "guild": null,
+      "dateStart": "2025-08-31T14:28:58.000Z",
+      "dateEnd": "2025-09-09T16:01:36.781Z",
+      "dateLabel": "8/31/2025, 11:58:58 PM - 9/10/2025, 1:31:36 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250831-235858-lq8m",
+      "summary": {
+        "borderlandsPct": 0.0027548209366391185,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 362,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20250808-000051-6210",
       "title": "Charrmander Phoenix",
       "commanders": [
