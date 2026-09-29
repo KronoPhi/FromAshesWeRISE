@@ -5,6 +5,57 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20251211-234213-hoi9",
+      "title": "Charrmander Phoenix, Druid, Huma Shadowfist, Moôove To Tag",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Druid",
+        "Huma Shadowfist",
+        "Moôove To Tag"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-12-11T13:12:13.000Z",
+      "dateEnd": "2025-12-17T14:54:41.944Z",
+      "dateLabel": "12/11/2025, 11:42:13 PM - 12/18/2025, 1:24:41 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20251211-234213-hoi9",
+      "summary": {
+        "borderlandsPct": 0.12048192771084337,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 53,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 20,
+            "color": "#64748b"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20251201-011156-q32l",
       "title": "Charrmander Phoenix, Eurynome Hephaestus, Moôove To Tag, Odin Horus Ares",
       "commanders": [
