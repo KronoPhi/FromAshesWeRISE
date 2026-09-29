@@ -5,6 +5,40 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20250921-235924-76xz",
+      "title": "Charrmander Phoenix",
+      "commanders": [
+        "Charrmander Phoenix"
+      ],
+      "guild": null,
+      "dateStart": "2025-09-21T14:29:24.000Z",
+      "dateEnd": "2025-09-21T14:52:48.497Z",
+      "dateLabel": "9/21/2025, 11:59:24 PM - 9/22/2025, 12:22:48 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20250921-235924-76xz",
+      "summary": {
+        "borderlandsPct": 0.038461538461538464,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 250,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20250911-011929-artm",
       "title": "Charrmander Phoenix, Geltii Extazis, Leonvolcove, Moo Lyne",
       "commanders": [
