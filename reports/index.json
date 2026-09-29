@@ -5,6 +5,46 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20251031-235919-we7m",
+      "title": "Charrmander Phoenix, Eurynome Hephaestus, Xxooee Wvwtag",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Eurynome Hephaestus",
+        "Xxooee Wvwtag"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2025-10-31T13:29:19.000Z",
+      "dateEnd": "2025-11-10T13:11:52.948Z",
+      "dateLabel": "10/31/2025, 11:59:19 PM - 11/10/2025, 11:41:52 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20251031-235919-we7m",
+      "summary": {
+        "borderlandsPct": 0.04285714285714286,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 194,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "World vs World",
+            "value": 7,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20251026-231821-6o7a",
       "title": "Charrmander Phoenix, Eurynome Hephaestus",
       "commanders": [
