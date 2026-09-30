@@ -5,6 +5,50 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260105-232442-i1ip",
+      "title": "Charrmander Phoenix, Moôove To Tag",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Moôove To Tag"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-01-05T12:54:42.000Z",
+      "dateEnd": "2026-01-06T14:31:20.997Z",
+      "dateLabel": "1/5/2026, 11:24:42 PM - 1/7/2026, 1:01:20 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260105-232442-i1ip",
+      "summary": {
+        "borderlandsPct": 0.18055555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 84,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 34,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20251229-234225-xnhq",
       "title": "Charrmander Phoenix, Moôove To Tag, Odin Horus Ares",
       "commanders": [
