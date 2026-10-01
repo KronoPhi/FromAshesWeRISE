@@ -5,6 +5,51 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260516-005840-j3rn",
+      "title": "Alice De Charme, Athena De Charme, Chrono Kathréftis",
+      "commanders": [
+        "Alice De Charme",
+        "Athena De Charme",
+        "Chrono Kathréftis"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-05-15T15:28:40.000Z",
+      "dateEnd": "2026-05-29T16:10:44.290Z",
+      "dateLabel": "5/16/2026, 12:58:40 AM - 5/30/2026, 1:40:44 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260516-005840-j3rn",
+      "summary": {
+        "borderlandsPct": 0.08032128514056225,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 229,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 18,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260430-235738-iix8",
       "title": "Ezekiel Ilv, Milk R",
       "commanders": [
