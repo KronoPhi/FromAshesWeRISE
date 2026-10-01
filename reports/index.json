@@ -5,6 +5,45 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260216-002057-0rwr",
+      "title": "Aphronator, Chrono Kathréftis",
+      "commanders": [
+        "Aphronator",
+        "Chrono Kathréftis"
+      ],
+      "guild": {
+        "id": "AE70667B-11FF-F011-BB23-12CF7DDA4ADF",
+        "name": "No Fights",
+        "tag": "nF"
+      },
+      "dateStart": "2026-02-15T13:50:57.000Z",
+      "dateEnd": "2026-02-24T15:27:55.970Z",
+      "dateLabel": "2/16/2026, 12:20:57 AM - 2/25/2026, 1:57:55 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260216-002057-0rwr",
+      "summary": {
+        "borderlandsPct": 0.08536585365853659,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 150,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260201-234032-ixmy",
       "title": "Aphronator, Charrmander Phoenix, Chrono Kathréftis, Lemmingly",
       "commanders": [
