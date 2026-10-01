@@ -5,6 +5,49 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260301-225824-29bi",
+      "title": "Chrono Kathréftis",
+      "commanders": [
+        "Chrono Kathréftis"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-03-01T12:28:24.000Z",
+      "dateEnd": "2026-03-31T13:14:31.854Z",
+      "dateLabel": "3/1/2026, 10:58:24 PM - 3/31/2026, 11:44:31 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260301-225824-29bi",
+      "summary": {
+        "borderlandsPct": 0.2863849765258216,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 152,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 36,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260216-002057-0rwr",
       "title": "Aphronator, Chrono Kathréftis",
       "commanders": [
