@@ -5,6 +5,52 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260621-230658-4p2p",
+      "title": "Able Sentry, Chrono Kathréftis, Hestia Amphitrite, Morticia Requiem",
+      "commanders": [
+        "Able Sentry",
+        "Chrono Kathréftis",
+        "Hestia Amphitrite",
+        "Morticia Requiem"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-06-21T13:36:58.000Z",
+      "dateEnd": "2026-06-30T14:27:57.189Z",
+      "dateLabel": "6/21/2026, 11:06:58 PM - 6/30/2026, 11:57:57 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260621-230658-4p2p",
+      "summary": {
+        "borderlandsPct": 0.22099447513812154,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 141,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 35,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260610-235907-11pu",
       "title": "Chrono Kathréftis, Morticia Requiem",
       "commanders": [
