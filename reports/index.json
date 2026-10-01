@@ -5,6 +5,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260601-003618-mxlr",
+      "title": "Chrono Kathréftis, Odin Horus Ares",
+      "commanders": [
+        "Chrono Kathréftis",
+        "Odin Horus Ares"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-05-31T15:06:18.000Z",
+      "dateEnd": "2026-06-10T14:20:21.866Z",
+      "dateLabel": "6/1/2026, 12:36:18 AM - 6/10/2026, 11:50:21 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260601-003618-mxlr",
+      "summary": {
+        "borderlandsPct": 0.004651162790697674,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 214,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260516-005840-j3rn",
       "title": "Alice De Charme, Athena De Charme, Chrono Kathréftis",
       "commanders": [
