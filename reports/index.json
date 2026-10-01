@@ -5,6 +5,45 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260401-000535-gbc7",
+      "title": "Chrono Kathréftis, Pamela Iceley",
+      "commanders": [
+        "Chrono Kathréftis",
+        "Pamela Iceley"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-03-31T13:35:35.000Z",
+      "dateEnd": "2026-04-14T15:49:08.093Z",
+      "dateLabel": "4/1/2026, 12:05:35 AM - 4/15/2026, 1:19:08 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260401-000535-gbc7",
+      "summary": {
+        "borderlandsPct": 0.12021857923497267,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 161,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260301-225824-29bi",
       "title": "Chrono Kathréftis",
       "commanders": [
