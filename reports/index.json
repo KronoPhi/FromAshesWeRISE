@@ -5,6 +5,52 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260105-232442-gofr",
+      "title": "Charrmander Phoenix, Commander Lemmings, Dub Vee Dub, Lemmey Pie",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Commander Lemmings",
+        "Dub Vee Dub",
+        "Lemmey Pie"
+      ],
+      "guild": {
+        "id": "8C1B54EB-4FDB-4B7E-BD75-C64FA45FF153",
+        "name": "Undead Stuffed Bunnies",
+        "tag": "UsB"
+      },
+      "dateStart": "2026-01-05T12:54:42.000Z",
+      "dateEnd": "2026-01-16T12:35:49.004Z",
+      "dateLabel": "1/5/2026, 11:24:42 PM - 1/16/2026, 11:05:49 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260105-232442-gofr",
+      "summary": {
+        "borderlandsPct": 0.18055555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 84,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 34,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260117-115928-qdqc",
       "title": "Charrmander Phoenix, Lord Malgarfu, Mori Kins, Mori Poof",
       "commanders": [
