@@ -1,33 +1,5 @@
 [
   {
-    "id": "20260721-000224-xmbc",
-    "title": "Chrono Kathréftis",
-    "commanders": [
-      "Chrono Kathréftis"
-    ],
-    "guild": {
-      "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
-      "name": "From Ashes We",
-      "tag": "RISE"
-    },
-    "dateStart": "2026-07-20T14:32:24.000Z",
-    "dateEnd": "2026-07-20T15:26:00.020Z",
-    "dateLabel": "7/21/2026, 12:02:24 AM - 7/21/2026, 12:56:00 AM",
-    "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260721-000224-xmbc",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 88,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 41
-    }
-  },
-  {
     "id": "20260711-012632-zma5",
     "title": "Chrono Kathréftis, Leona Volcove, Vagrant Healbrand, Vielle Volcove",
     "commanders": [
