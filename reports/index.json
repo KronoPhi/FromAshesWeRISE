@@ -5,6 +5,45 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260807-235919-4orf",
+      "title": "Chrono Kathréftis, Josh Atreides",
+      "commanders": [
+        "Chrono Kathréftis",
+        "Josh Atreides"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-08-07T14:29:19.000Z",
+      "dateEnd": "2026-08-07T15:59:18.203Z",
+      "dateLabel": "8/7/2026, 11:59:19 PM - 8/8/2026, 1:29:18 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260807-235919-4orf",
+      "summary": {
+        "borderlandsPct": 0.04697986577181208,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 142,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260801-001321-tt69",
       "title": "Amunet Starlust, Chrono Kathréftis, Squirel Halucinates",
       "commanders": [
