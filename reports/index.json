@@ -5,6 +5,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260911-002330-324g",
+      "title": "Chrono Kathréftis, Marzinecro",
+      "commanders": [
+        "Chrono Kathréftis",
+        "Marzinecro"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-09-10T14:53:30.000Z",
+      "dateEnd": "2026-09-10T16:04:38.270Z",
+      "dateLabel": "9/11/2026, 12:23:30 AM - 9/11/2026, 1:34:38 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260911-002330-324g",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 204,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260901-234451-e6sd",
       "title": "Chrono Kathréftis, Karteine",
       "commanders": [
