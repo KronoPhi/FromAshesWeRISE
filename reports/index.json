@@ -5,6 +5,50 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260901-234451-e6sd",
+      "title": "Chrono Kathréftis, Karteine",
+      "commanders": [
+        "Chrono Kathréftis",
+        "Karteine"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-09-01T14:14:51.000Z",
+      "dateEnd": "2026-09-09T17:02:43.647Z",
+      "dateLabel": "9/1/2026, 11:44:51 PM - 9/10/2026, 2:32:43 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260901-234451-e6sd",
+      "summary": {
+        "borderlandsPct": 0.0196078431372549,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 250,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260824-001253-tssa",
       "title": "Habonkadonk, Karteine, Noctyra Corv",
       "commanders": [
