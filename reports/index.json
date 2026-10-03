@@ -5,6 +5,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260920-235938-ztoq",
+      "title": "Charrmander Phoenix, Chrono Kathréftis",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Chrono Kathréftis"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-09-20T14:29:38.000Z",
+      "dateEnd": "2026-09-24T16:30:31.787Z",
+      "dateLabel": "9/20/2026, 11:59:38 PM - 9/25/2026, 2:00:31 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260920-235938-ztoq",
+      "summary": {
+        "borderlandsPct": 0.0036496350364963502,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 273,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260915-000232-jgfo",
       "title": "Charrmander Phoenix",
       "commanders": [
