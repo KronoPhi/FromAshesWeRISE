@@ -5,6 +5,50 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260926-021448-0met",
+      "title": "Charrmander Phoenix, Zapp U Tooblivian",
+      "commanders": [
+        "Charrmander Phoenix",
+        "Zapp U Tooblivian"
+      ],
+      "guild": {
+        "id": "6EFC32B8-1B0E-42E9-A4BE-2141E3426B9F",
+        "name": "Foes Of Evil",
+        "tag": "FOE"
+      },
+      "dateStart": "2026-09-25T16:44:48.000Z",
+      "dateEnd": "2026-09-29T15:56:27.656Z",
+      "dateLabel": "9/26/2026, 2:14:48 AM - 9/30/2026, 1:26:27 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20260926-021448-0met",
+      "summary": {
+        "borderlandsPct": 0.24475524475524477,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 108,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260920-235938-ztoq",
       "title": "Charrmander Phoenix, Chrono Kathréftis",
       "commanders": [
