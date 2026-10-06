@@ -3,7 +3,41 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261006-232908-r96o",
+      "title": "Chrono Kathréftis, Morticia Requiem",
+      "commanders": [
+        "Chrono Kathréftis",
+        "Morticia Requiem"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-10-06T12:59:08.000Z",
+      "dateEnd": "2026-10-06T13:28:33.490Z",
+      "dateLabel": "10/6/2026, 11:29:08 PM - 10/6/2026, 11:58:33 PM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20261006-232908-r96o",
+      "publishedBy": "KronoPhi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 81,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 20
+      }
+    },
     {
       "id": "20261001-221142-hvef",
       "title": "Chrono Kathréftis, Morticia Requiem",
