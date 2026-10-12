@@ -1,13 +1,42 @@
 {
   "colorPalette": "electric-blue",
-  "axiTheme": "default",
-  "glass": false,
-  "glassSurfaces": false,
+  "axiTheme": "glass",
+  "glass": true,
+  "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261013-001510-k9lp",
+      "title": "Chrono Kathréftis",
+      "commanders": [
+        "Chrono Kathréftis"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-10-12T13:45:10.000Z",
+      "dateEnd": "2026-10-12T14:15:19.273Z",
+      "dateLabel": "10/13/2026, 12:15:10 AM - 10/13/2026, 12:45:19 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20261013-001510-k9lp",
+      "publishedBy": "KronoPhi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 11
+      }
+    },
     {
       "id": "20261007-232348-hb4l",
       "title": "Morticia Requiem, Sailor Marz",
