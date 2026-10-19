@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261019-232033-1olj",
+      "title": "Chrono Kathréftis",
+      "commanders": [
+        "Chrono Kathréftis"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-10-19T12:50:33.000Z",
+      "dateEnd": "2026-10-19T13:41:41.912Z",
+      "dateLabel": "10/19/2026, 11:20:33 PM - 10/20/2026, 12:11:41 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20261019-232033-1olj",
+      "publishedBy": "KronoPhi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 11
+      }
+    },
     {
       "id": "20261013-232125-xdcc",
       "title": "Charrmander Phoenix, Geltii Extazis",
