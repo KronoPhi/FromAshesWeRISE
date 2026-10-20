@@ -5,9 +5,43 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261021-003214-h4hu",
+      "title": "Chrono Kathréftis",
+      "commanders": [
+        "Chrono Kathréftis"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-10-20T14:02:14.000Z",
+      "dateEnd": "2026-10-20T14:55:54.456Z",
+      "dateLabel": "10/21/2026, 12:32:14 AM - 10/21/2026, 1:25:54 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20261021-003214-h4hu",
+      "publishedBy": "KronoPhi",
+      "summary": {
+        "borderlandsPct": 0.03571428571428571,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 19
+      }
+    },
     {
       "id": "20261019-232033-1olj",
       "title": "Chrono Kathréftis",
