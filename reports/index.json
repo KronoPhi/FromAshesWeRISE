@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261026-002403-6jku",
+      "title": "Chrono Kathréftis, Morticia Requiem",
+      "commanders": [
+        "Chrono Kathréftis",
+        "Morticia Requiem"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-10-25T13:54:03.000Z",
+      "dateEnd": "2026-10-25T16:14:45.738Z",
+      "dateLabel": "10/26/2026, 12:24:03 AM - 10/26/2026, 2:44:45 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20261026-002403-6jku",
+      "publishedBy": "KronoPhi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 50,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261023-013153-cz8v",
       "title": "Hestia Amphitrite, Marzimez",
       "commanders": [
