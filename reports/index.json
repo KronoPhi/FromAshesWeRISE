@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261026-234843-a4i1",
+      "title": "Sigrún Gunnard",
+      "commanders": [
+        "Sigrún Gunnard"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-10-26T13:18:43.000Z",
+      "dateEnd": "2026-10-26T13:43:33.561Z",
+      "dateLabel": "10/26/2026, 11:48:43 PM - 10/27/2026, 12:13:33 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20261026-234843-a4i1",
+      "publishedBy": "KronoPhi",
+      "summary": {
+        "borderlandsPct": 0.21428571428571427,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261026-002403-6jku",
       "title": "Chrono Kathréftis, Morticia Requiem",
       "commanders": [
