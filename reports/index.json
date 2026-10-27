@@ -5,9 +5,39 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261027-235643-v4j6",
+      "title": "Hádán, Morticia Requiem",
+      "commanders": [
+        "Hádán",
+        "Morticia Requiem"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-10-27T13:26:43.000Z",
+      "dateEnd": "2026-10-27T14:35:05.939Z",
+      "dateLabel": "10/27/2026, 11:56:43 PM - 10/28/2026, 1:05:05 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20261027-235643-v4j6",
+      "publishedBy": "KronoPhi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20261026-234843-a4i1",
       "title": "Sigrún Gunnard",
