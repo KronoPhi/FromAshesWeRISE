@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261031-003807-9kfp",
+      "title": "Chrono Kathréftis",
+      "commanders": [
+        "Chrono Kathréftis"
+      ],
+      "guild": {
+        "id": "51CCE918-ED8C-F111-BB1F-12683E7B69EB",
+        "name": "Just The Tip Or Balls Deep",
+        "tag": "oooß"
+      },
+      "dateStart": "2026-10-30T14:08:07.000Z",
+      "dateEnd": "2026-10-30T14:27:50.111Z",
+      "dateLabel": "10/31/2026, 12:38:07 AM - 10/31/2026, 12:57:50 AM",
+      "url": "https://KronoPhi.github.io/FromAshesWeRISE/?report=20261031-003807-9kfp",
+      "publishedBy": "KronoPhi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 54,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261030-003735-myvp",
       "title": "Marzimez",
       "commanders": [
